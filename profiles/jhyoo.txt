@@ -1,0 +1,3 @@
+name: jhyoo
+role: owner
+practice: git training
