@@ -1,0 +1,3 @@
+name: bjkim
+role: developer
+practice: git training
