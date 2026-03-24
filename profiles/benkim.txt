@@ -1,0 +1,3 @@
+name: benkim
+role: developer
+practice: git training
