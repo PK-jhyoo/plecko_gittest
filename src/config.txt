@@ -1,3 +1,4 @@
 PROJECT_NAME=GitPractice
 VERSION=0.2
 MODE=DEV
+OWNER=benkim
