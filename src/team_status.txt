@@ -1,3 +1,3 @@
 OWNER=jhyoo
 MEMBERS=benkim,bjkim
-STATUS=training
+STATUS=review
