@@ -19,7 +19,6 @@ git switch usr/NAME
 * Enforcement Status: Active
 * Branch Rules
     * Require a pull request before merging
-    * Require approvals (최소 1명 이상)
     * Require review from Code Owners
 
 ### 2-2. Code Owners 설정 방법
