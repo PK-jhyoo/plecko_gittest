@@ -13,7 +13,7 @@ git switch usr/NAME
 ```
 
 ## 2. Pull Request (PR) 규칙 초기 설정 방법
-  
+### 2-1. Branch rule 설정 방법
 ```해당 Repository → Settings → Branches → Add ruleset```
 * Ruleset Name: ex)PR 규칙
 * Enforcement Status: Active
@@ -22,7 +22,7 @@ git switch usr/NAME
     * Require approvals (최소 1명 이상)
     * Require review from Code Owners
 
-### 2-1. Code Owners 설정 방법
+### 2-2. Code Owners 설정 방법
 * 파일 위치
 ```.github/CODEOWNERS```
 
