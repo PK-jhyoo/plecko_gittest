@@ -13,10 +13,8 @@ git switch usr/NAME
 ```
 
 ## 2. Pull Request (PR) 규칙 초기 설정 방법
-* Branch Protection 설정 경로
-```Repository → Settings → Branches → Add ruleset```
-
-
+  
+```해당 Repository → Settings → Branches → Add ruleset```
 * Ruleset Name: ex)PR 규칙
 * Enforcement Status: Active
 * Branch Rules
