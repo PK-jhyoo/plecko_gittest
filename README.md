@@ -9,7 +9,9 @@ Git Practice Repository
 ```bash
 git switch dev
 git pull origin dev
+
 git switch usr/NAME
+git merge dev
 ```
 
 ## 2. Pull Request (PR) 규칙 초기 설정 방법
